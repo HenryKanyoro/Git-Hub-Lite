@@ -1,5 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~bootstrap/dist/css/bootstrap.css';
+body{
+
+    background-color:beige;
+        font-family: "Font Awesome 5 Brands";
+        font-weight: 400;
+        content: "\f167";
+        
+      
+}
+
 @media only screen and (max-width: 600px) {
     body {
       background-color: lightblue;
