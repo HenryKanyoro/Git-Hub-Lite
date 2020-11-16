@@ -1,0 +1,51 @@
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.my-repos p {
+ 
+    text-align: right;
+}
+.desc{
+    text-align: right;
+}
+tr {
+    font-size: 36px;
+}
+a:hover {
+    text-decoration: none;
+}
+td a {
+    font-size: 55px;
+    color: blue;
+
+}
+td{
+  text-align: center;
+  font-size: 36px;
+ 
+}
+
+
+
+.col-md-12 {
+    text-align: center;
+}
+
+
+p1{
+    color: rgb(12, 40, 134);
+}
+
+
+img {
+    max-width: 50%;
+    border-radius: 600px;
+}
+.image-right {
+    padding-top: 8rem;
+    text-align: center;
+}
+
