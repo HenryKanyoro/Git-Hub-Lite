@@ -1,0 +1,28 @@
+
+.btn{
+    margin-top: 30px;
+    background-color: #eff6f7;
+}
+
+.seeMorebtn{
+    text-align: center;
+}
+.display{
+    float: left;
+    margin-bottom: 0.3rem;
+}
+
+
+.search-form p {
+    font-size: 50px;
+    margin: 0;
+    justify-content: left;
+    align-items: left;
+    color: blue;
+    
+}
+
+
+.table{
+    color: aqua;
+}
